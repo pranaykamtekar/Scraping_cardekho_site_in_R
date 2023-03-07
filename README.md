@@ -1,7 +1,7 @@
 # Scraping_cardekho_site
 
 In this project we have scraped the web data in structured format
-as we have car_dekho website after filering we have 25+ cars which are perfect fit with different price bracket
+as we have car_dekho website after filtering we have 25+ cars which are perfect fit with different price bracket of 3 to 5 lakhs
 we have gathered all of them into one dataframe 
 and tried to visualize the data
 There R code of it Also there are few screenshot attached in the repository
